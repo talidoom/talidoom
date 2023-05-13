@@ -1,6 +1,6 @@
 ![Hi, my name is Tori Elgina - talidoom](https://i.ibb.co/FJ8QH1v/header-1.jpg)
 
-[![Telegram Badge](https://i.ibb.co/gPKdBdQ/telegram-icon.png)](https://t.me/talizorah666) [![Vkontakte Badge](https://i.ibb.co/NNWJNCj/vk-icon.png)](https://vk.com/talidoom)
+[![Telegram Badge](https://i.ibb.co/gPKdBdQ/telegram-icon.png)](https://t.me/talidoom) [![Vkontakte Badge](https://i.ibb.co/NNWJNCj/vk-icon.png)](https://vk.com/talidoom)
 
 
 Добро пожаловать! 👋
@@ -46,3 +46,10 @@
 ## ⚡ Интересные факты обо мне: 
 - На досуге я занимаюсь 3d печатью и крашу фигурки
 - В детстве у меня был домашний медведь по имени Маша (и я думаю, чо вы захотите услышать эту историю) 😄
+
+
+
+### Дополнительные контакты:
+E-mail: arttali@mail.ru
+VK: https://vk.com/talidoom
+Telegram: https://t.me/talidoom
