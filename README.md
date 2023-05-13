@@ -50,6 +50,6 @@
 
 
 ### Дополнительные контакты:
-E-mail: arttali@mail.ru
-VK: https://vk.com/talidoom
-Telegram: https://t.me/talidoom
+- E-mail: arttali@mail.ru
+- VK: https://vk.com/talidoom
+- Telegram: https://t.me/talidoom
