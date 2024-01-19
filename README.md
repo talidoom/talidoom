@@ -26,8 +26,8 @@
 Добавлена возможность регистрации и входа.
 
 ### Проект Поиск Фильмов.
--[Frontend часть](https://github.com/talidoom/movies-explorer-frontend/tree/level-3)
--[Backend часть](https://github.com/talidoom/movies-explorer-api/tree/level-1)
+- [Frontend часть](https://github.com/talidoom/movies-explorer-frontend/tree/level-3)
+- [Backend часть](https://github.com/talidoom/movies-explorer-api/tree/level-1)
 Сайт с главной страницей портфолио, а также сайт по поиску фильмов.
 
 ## 💼 Основные Стек-технологии:
